@@ -23,4 +23,4 @@ Wizualizacja GUI ze specyfikacji funkcjonalnej:
 
 ![image](https://user-images.githubusercontent.com/46055596/89960542-9b03f680-dc3f-11ea-91d3-bae522e404eb.png)
 
-*W repozytorium znajduje się jedynie algorytm (brakuje GUI).*
+*W repo brakuje GUI).*
